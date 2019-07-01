@@ -1,6 +1,6 @@
 {
   "name": "egg-remote-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An egg plugin that can load remote modules",
   "eggPlugin": {
     "name": "remoteModule"
